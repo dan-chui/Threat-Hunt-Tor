@@ -26,6 +26,8 @@ No malware, exploits, or offensive tooling are distributed in this repository.
 Any IP addresses, indicators, or artifacts are included strictly for analysis
 and educational demonstration.
 
+- [Scenario creation](https://github.com/dan-chui/threat-hunting-scenario-tor)
+
 ---
 
 ## Overview
