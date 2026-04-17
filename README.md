@@ -1,4 +1,7 @@
-# SOC Threat Hunting & Incident Investigation: Tor Browser Activity
+# Threat Hunt: Tor Browser Activity Investigation
+_Investigating Tor-based activity using Microsoft Defender telemetry and KQL_
+
+---
 
 **Analyst:** Dan Chui  
 **Date:** March 10, 2026  
